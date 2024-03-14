@@ -42,7 +42,7 @@ We tested the converter using clear audio files in both WAV and MP3 formats. The
 #### **Microphone Recordings**
 We also assessed the converter's performance with live audio captured directly from the user's microphone. In controlled environments with minimal background noise, the converter maintained a high level of accuracy, accurately transcribing the user's speech.
 
-![Sample Image](image (16).png)
+[![Sample Image](https://github.com/shugyla1111/FINAL/blob/main/image%20(16).png) 
 
 ## **Discussion**
 ### **Critical Review of Results**
